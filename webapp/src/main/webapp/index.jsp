@@ -4,7 +4,7 @@
     <p>Please fill in this form to create an account.</p>
     <hr>
      
-    <label for="name"><b>Mr.Phani Kumar</b></label>
+    <label for="name"><b>Mr.R P KUMAR</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
     
